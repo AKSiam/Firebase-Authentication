@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156025967972",
+    "project_id": "fir-authentica2",
+    "storage_bucket": "fir-authentica2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156025967972:android:73f62fed3501e263559671",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthentica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjWPKrnL6iHb-G1Ean-4aHgkXg6VzPeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156025967972:android:b035a58a67b1850c559671",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjWPKrnL6iHb-G1Ean-4aHgkXg6VzPeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
